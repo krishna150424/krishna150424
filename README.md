@@ -1,7 +1,9 @@
-<h2 align="center">🎮 Game Mode: ON</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+I'm+Krishna+Nayak;Frontend+Developer;React+%7C+Tailwind+CSS;Animation+Lover+✨;Game+Mode+ON+🎮" />
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350"/>
 </p>
 
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast  
