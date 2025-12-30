@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Krishna-Nayak
 # Hi 👋, I'm Krishna Nayak
