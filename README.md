@@ -1,4 +1,5 @@
-I'm Krishna Nayak
+# Krishna-Nayak
+# Hi 👋, I'm Krishna Nayak
 
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast  
 
