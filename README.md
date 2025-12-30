@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+I'm+Krishna+Nayak;Frontend+Developer;React+%7C+Tailwind+CSS;Animation+Lover+✨;Game+Mode+ON+🎮" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=PLAYER+NAME:+KRISHNA+NAYAK;ROLE:+FRONTEND+DEVELOPER;MODE:+GAME+ON+🎮" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 </p>
 
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast  
