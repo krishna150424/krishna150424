@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&center=true&vCenter=true&width=450&lines=Hi,+I'm+Krishna+Nayak+👋" />
-</h1>
-# Krishna-Nayak
+
 # Hi 👋, I'm Krishna Nayak
 
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast  
