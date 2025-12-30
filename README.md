@@ -1,10 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=PLAYER+NAME:+KRISHNA+NAYAK;ROLE:+FRONTEND+DEVELOPER;MODE:+GAME+ON+🎮" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-</p>
+I'm Krishna Nayak
 
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast  
 
