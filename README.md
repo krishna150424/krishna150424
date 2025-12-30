@@ -1,4 +1,8 @@
+<h1 align="center">Krishna Nayak 🚀</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
 # Hi 👋, I'm Krishna Nayak
 
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast  
