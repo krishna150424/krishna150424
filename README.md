@@ -1,8 +1,7 @@
-<h1 align="center">🎮 Krishna Nayak</h1>
-<h3 align="center">Frontend Developer | Code Player</h3>
+<h1 align="center">👾 Krishna Nayak</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
 </p>
 
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast  
