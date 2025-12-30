@@ -1,15 +1,9 @@
 <h1 align="center">
-  Hi 👋 I'm Krishna Nayak
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Krishna+Nayak;Frontend+Developer;React+%7C+Tailwind+CSS;Love+Animations+✨" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</p>
-
-<h3 align="center">Creative Frontend Developer 🚀</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
 </p>
 
 ---
