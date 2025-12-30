@@ -1,13 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Krishna+Nayak;Frontend+Developer;React+%7C+Tailwind+CSS;Love+Animations+✨" />
-</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
-</p>
-
----
-# Krishna-Nayak
 # Hi 👋, I'm Krishna Nayak
 
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast  
