@@ -1,7 +1,7 @@
-<h1 align="center">👾 Krishna Nayak</h1>
+<h2 align="center">🎮 Game Mode: ON</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 </p>
 
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast  
