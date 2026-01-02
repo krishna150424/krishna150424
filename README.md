@@ -20,9 +20,9 @@ I’m passionate about learning new technologies, building projects, and improvi
 
 ---
 
-💻 **Programming:**
+##💻 **Programming:**
 <img src="https://skillicons.dev/icons?i=html,css,js" /> <img src="https://skillicons.dev/icons?i=react,tailwind" /> <img src="https://skillicons.dev/icons?i=nodejs,express" />  
-🧰 **Tools:** <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+##🧰 **Tools:** <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 
 --- 
