@@ -31,30 +31,41 @@ I’m passionate about learning new technologies, building projects, and improvi
 
 ---
 
-## 🚀 Projects
-
-### 🛒 Blinkit Website Clone
-- Built a responsive frontend inspired by Blinkit  
-- Focused on UI design and layout structure  
-
-### 🎵 Music Player
-- Developed a web-based music player  
-- Features include play, pause, next, and previous controls  
-
-### 🚗 Car Rental 
-- Designed a car rental website interface  
-- Clean UI with modern styling and layout  
-👉 Check out my repositories for more!
-
----
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🛒 Blinkit Website Clone
 
 
 
-## 🌐 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/krishna-nayak-05237b369/
-- 🌍 Portfolio: https://krishna-nayak.vercel.app/
+🧩 What I did
 
----
+Built a fully responsive frontend
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+Replicated Blinkit’s UI & layout
+
+Focused on clean design & structure
+
+</td> <td width="50%" valign="top">
+🎵 Music Player
+
+🎧 Features
+
+Play / Pause / Next / Previous
+
+Smooth UI interactions
+
+Web-based audio handling
+
+</td> </tr> <tr> <td width="50%" valign="top">
+🚗 Car Rental Website
+
+✨ Highlights
+
+Modern & clean UI
+
+User-friendly layout
+
+Designed for real-world use
+
+</td> <td width="50%" valign="top">
