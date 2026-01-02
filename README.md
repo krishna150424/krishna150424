@@ -69,3 +69,7 @@ User-friendly layout
 Designed for real-world use
 
 </td> <td width="50%" valign="top">
+
+
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/krishna-nayak-05237b369/"> <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Nayak-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://krishna-nayak.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel" /> </a> </p>
