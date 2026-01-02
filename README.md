@@ -35,19 +35,19 @@ I’m passionate about learning new technologies, building projects, and improvi
 
 ✨ A collection of projects built to sharpen my skills and bring ideas to life.
 
-🛒 Blinkit Website Clone
+#🛒 Blinkit Website Clone
 
 ⚡ Responsive frontend inspired by the Blinkit platform
 🎨 Pixel-focused UI with clean layout structure
 🛠️ Strengthened HTML & CSS design fundamentals
 
-🎵 Music Player Web App
+#🎵 Music Player Web App
 
 🎧 Interactive web-based music player
 ▶️ Play | ⏸️ Pause | ⏭️ Next | ⏮️ Previous
 ⚙️ Built with smooth JavaScript logic
 
-🚗 Car Rental Website
+#🚗 Car Rental Website
 
 🚘 Modern car rental website interface
 ✨ Clean, minimal & user-friendly UI
@@ -58,5 +58,4 @@ I’m passionate about learning new technologies, building projects, and improvi
 🌐 Let’s Connect
 
 💼 LinkedIn → https://www.linkedin.com/in/krishna-nayak-05237b369/
-
 🌍 Portfolio → https://krishna-nayak.vercel.app/
