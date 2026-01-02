@@ -2,7 +2,7 @@
 <h3 align="center">Student | Aspiring Full-Stack Developer | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;I+Love+Building+Projects;Learning+React+%26+AI+Concepts;Turning+Ideas+Into+Reality+💡" />
+  
 </p>
  
 
