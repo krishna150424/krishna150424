@@ -23,8 +23,7 @@ I’m passionate about learning new technologies, building projects, and improvi
 ## 💻 Programming
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express" />
 
-## 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 
 
 
