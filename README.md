@@ -24,9 +24,6 @@ I’m passionate about learning new technologies, building projects, and improvi
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express" />
 
 
-
-
-
 --- 
 ## 🚀 Projects Showcase
 
