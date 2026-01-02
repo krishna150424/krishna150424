@@ -31,45 +31,32 @@ I’m passionate about learning new technologies, building projects, and improvi
 
 ---
 
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
+🚀 Projects Showcase
+
+✨ A collection of projects built to sharpen my skills and bring ideas to life.
+
 🛒 Blinkit Website Clone
 
+⚡ Responsive frontend inspired by the Blinkit platform
+🎨 Pixel-focused UI with clean layout structure
+🛠️ Strengthened HTML & CSS design fundamentals
 
+🎵 Music Player Web App
 
+🎧 Interactive web-based music player
+▶️ Play | ⏸️ Pause | ⏭️ Next | ⏮️ Previous
+⚙️ Built with smooth JavaScript logic
 
-🧩 What I did
-
-Built a fully responsive frontend
-
-Replicated Blinkit’s UI & layout
-
-Focused on clean design & structure
-
-</td> <td width="50%" valign="top">
-🎵 Music Player
-
-🎧 Features
-
-Play / Pause / Next / Previous
-
-Smooth UI interactions
-
-Web-based audio handling
-
-</td> </tr> <tr> <td width="50%" valign="top">
 🚗 Car Rental Website
 
-✨ Highlights
+🚘 Modern car rental website interface
+✨ Clean, minimal & user-friendly UI
+📐 Designed with real-world layout thinking
 
-Modern & clean UI
+🔥 More exciting projects coming soon… stay tuned!
 
-User-friendly layout
+🌐 Let’s Connect
 
-Designed for real-world use
+💼 LinkedIn → https://www.linkedin.com/in/krishna-nayak-05237b369/
 
-</td> <td width="50%" valign="top">
-
-
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/krishna-nayak-05237b369/"> <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Nayak-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://krishna-nayak.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel" /> </a> </p>
+🌍 Portfolio → https://krishna-nayak.vercel.app/
