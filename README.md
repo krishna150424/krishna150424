@@ -20,14 +20,11 @@ I’m passionate about learning new technologies, building projects, and improvi
 
 ---
 
-💻 Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
-🎨 Frontend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwind" /> </p>
-⚙️ Backend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
-🧰 Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+💻 **Programming:** <img src="https://skillicons.dev/icons?i=html,css,js" />  
+🎨 **Frontend:** <img src="https://skillicons.dev/icons?i=react,tailwind" />  
+⚙️ **Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express" />  
+🧰 **Tools:** <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 
 --- 
 ## 🚀 Projects Showcase
