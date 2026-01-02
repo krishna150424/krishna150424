@@ -20,20 +20,14 @@ I’m passionate about learning new technologies, building projects, and improvi
 
 ---
 
-## 🛠️ Skills & Technologies
-
-- ## 💻 Programming Languages
-- HTML  
-- CSS  
-- JavaScript  
-
-## 🎨 Frontend Development
-- **React.js** – Component-based UI development  
-- **Tailwind CSS** – Utility-first CSS framework
-## 🖥️ Backend Development
-- **Node.js** – JavaScript runtime for server-side applications  
-- **Express.js** – Lightweight and fast backend framework for APIs  
-
+💻 Programming Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+🎨 Frontend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwind" /> </p>
+⚙️ Backend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+🧰 Tools & Platforms
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
 ---
 
