@@ -4,12 +4,10 @@
 
 # Hi 👋, I'm **Krishna Nayak**
 
----
 
-### 🚀MERN Stack Learner | MCA Student | Full Stack Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=2000&color=36BCF7&center=true&vCenter=true&width=650&font=Fira+Code&lines=🚀+MERN+Stack+Learner;🎓+MCA+Student;💻+Full+Stack+Enthusiast" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=2000&color=36BCF7&center=true&vCenter=true&width=650&font=Fira+Code&lines=+MERN+Stack+Learner;+MCA+Student;+Full+Stack+Enthusiast" /> 
 </p>
 
 </div>
