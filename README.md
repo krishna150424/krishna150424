@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm **Krishna Nayak**
+# Hi, I'm **Krishna Nayak**
 
 
 
@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=2000&color=36BCF7&center=true&vCenter=true&width=650&font=Fira+Code&lines=+MERN+Stack+Learner;+MCA+Student;+Full+Stack+Enthusiast" /> 
 </p>
 
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Coding GIF">
+</p>
 
 <div align="center">
 
@@ -39,6 +43,10 @@
 ## 💻 Programming
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express" />
 
+<!-- Additional Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400" alt="Coding Animation">
+</p>
 
 --- 
 ## 🚀 Projects Showcase
@@ -79,7 +87,3 @@ Strengthened HTML & CSS design fundamentals
  Explore my work → [Portfolio](https://krishna-nayak.vercel.app)
 
 ⚡ _Let’s turn ideas into code_
-
-
-
-
