@@ -10,28 +10,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=2000&color=36BCF7&center=true&vCenter=true&width=650&font=Fira+Code&lines=+MERN+Stack+Learner;+MCA+Student;+Full+Stack+Enthusiast" /> 
 </p>
 
-</div>
 
+<div align="center">
 
+  <a href="mailto:krishnanayak6311@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
+  <a href="https://www.linkedin.com/in/krishna-nayak-05237b369/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-
-
-<!-- Social Buttons -->
-<a href="mailto:krishnanayak6311@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/krishna-nayak-05237b369/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://krishna-nayak.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://krishna-nayak.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/>
+  </a>
 
 </div>
+
 
 ## 👨‍💻 About Me
 -  Currently learning **MERN Stack**
