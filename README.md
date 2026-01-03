@@ -44,9 +44,9 @@
 ---
 
 ### 🛒 Blinkit Website Clone
-⚡ Responsive frontend inspired by the Blinkit platform  
-🎨 Pixel-focused UI with clean layout structure  
-🛠️ Strengthened HTML & CSS design fundamentals  
+Responsive frontend inspired by the Blinkit platform  
+Pixel-focused UI with clean layout structure  
+Strengthened HTML & CSS design fundamentals  
 
 ---
 
