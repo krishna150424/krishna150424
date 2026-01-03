@@ -4,9 +4,10 @@
 
 ---
 
-### 🚀 MERN Stack Learner | 🎓 MCA Student | 💻 Full Stack Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Learner;MCA+Student;Full+Stack+Enthusiast;Always+Learning+New+Things" />
 
-<br/>
+</div>
+
 
 <!-- Social Buttons -->
 <a href="mailto:krishnanayak6311@gmail.com">
