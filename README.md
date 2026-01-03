@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm **Krishna Nayak**
+# Hi, I'm **Krishna Nayak**
 
 ---
 
