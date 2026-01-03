@@ -69,8 +69,12 @@
 
 ---
 
-## 🌐 Connect With Me
-📧 Email: **krishnanayak6311@gmail.com**
-💼 LinkedIn → https://www.linkedin.com/in/krishna-nayak-05237b369/  
-🌍 Portfolio → https://krishna-nayak.vercel.app/
+## 🌐 Let’s Connect
+
+📩 **Email** → krishnanayak6311@gmail.com  
+🔗 **LinkedIn** → [Krishna Nayak](https://www.linkedin.com/in/krishna-nayak-05237b369/)  
+🚀 **Portfolio** → [krishna-nayak.vercel.app](https://krishna-nayak.vercel.app)
+
+✨ _Always open to learning, collaboration & new opportunities_
+
 
