@@ -25,10 +25,10 @@
 </div>
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **MERN Stack**
-- 🎓 MCA Student
-- 🔥 Passionate about **Full Stack Development**
-- ✨ Love building clean & responsive web apps
+-  Currently learning **MERN Stack**
+-  MCA Student
+-  Passionate about **Full Stack Development**
+-  Love building clean & responsive web apps
 
 ---
 
@@ -39,7 +39,7 @@
 --- 
 ## 🚀 Projects Showcase
 
-✨ *A collection of projects built to sharpen my skills and bring ideas to life.*
+ *A collection of projects built to sharpen my skills and bring ideas to life.*
 
 ---
 
@@ -51,16 +51,16 @@ Strengthened HTML & CSS design fundamentals
 ---
 
 ### 🎵 Music Player Web App
-🎧 Interactive web-based music player  
-▶️ Play | ⏸️ Pause | ⏭️ Next | ⏮️ Previous  
-⚙️ Built with smooth JavaScript logic  
+ Interactive web-based music player  
+ Play | ⏸️ Pause | ⏭️ Next | ⏮️ Previous  
+ Built with smooth JavaScript logic  
 
 ---
 
 ### 🚗 Car Rental Website
-🚘 Modern car rental website interface  
-✨ Clean, minimal & user-friendly UI  
-📐 Designed with real-world layout thinking  
+ Modern car rental website interface  
+ Clean, minimal & user-friendly UI  
+ Designed with real-world layout thinking  
 
 ---
 
@@ -70,9 +70,9 @@ Strengthened HTML & CSS design fundamentals
 
 ## 🌐 Connect With Me
 
-💌 Drop a mail → **krishnanayak6311@gmail.com**  
-💼 Build connections → [LinkedIn](https://www.linkedin.com/in/krishna-nayak-05237b369/)  
-🌍 Explore my work → [Portfolio](https://krishna-nayak.vercel.app)
+ Drop a mail → **krishnanayak6311@gmail.com**  
+ Build connections → [LinkedIn](https://www.linkedin.com/in/krishna-nayak-05237b369/)  
+ Explore my work → [Portfolio](https://krishna-nayak.vercel.app)
 
 ⚡ _Let’s turn ideas into code_
 
