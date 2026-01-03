@@ -1,12 +1,19 @@
+<br/>
+
 <div align="center">
 
 # Hi 👋, I'm **Krishna Nayak**
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Learner;MCA+Student;Full+Stack+Enthusiast;Always+Learning+New+Things" />
+### 🚀 MERN Stack Learner | 🎓 MCA Student | 💻 Full Stack Enthusiast
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🚀+MERN+Stack+Learner;🎓+MCA+Student;💻+Full+Stack+Enthusiast" alt="Typing SVG" />
+</p>
 
 </div>
+
 
 
 <!-- Social Buttons -->
