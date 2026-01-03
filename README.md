@@ -1,14 +1,27 @@
-<h1 align="center">Hi 👋, I'm Krishna Nayak</h1>
-<h3 align="center">Student | Aspiring Full-Stack Developer | Tech Enthusiast 🚀</h3>
+<div align="center">
 
-<p align="center">
-  
-</p>
- 
+# Hi 👋, I'm **Krishna Nayak**
 
-Welcome to my GitHub profile!  
-I’m passionate about learning new technologies, building projects, and improving my problem-solving skills.
+---
 
+### 🚀 MERN Stack Learner | 🎓 MCA Student | 💻 Full Stack Enthusiast
+
+<br/>
+
+<!-- Social Buttons -->
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 ---
 
 ## 🧑‍💻 About Me
