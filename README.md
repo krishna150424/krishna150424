@@ -24,11 +24,10 @@
 
 </div>
 
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on **Full stack projects**
-- 🌱 I’m learning **React, Tailwind CSS, and AI concepts**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+## 👨‍💻 About Me
+- 🌱 Currently learning **MERN Stack**
+- 🎓 MCA Student
+- 🔥 Passionate about **Full Stack Development**
 - ✨ Love building clean & responsive web apps
 
 ---
