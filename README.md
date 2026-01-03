@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on **Full stack projects**
 - 🌱 I’m learning **React, Tailwind CSS, and AI concepts**
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
-- 📫 How to reach me: **kn159919@gmail.com**
+- ✨ Love building clean & responsive web apps
 
 ---
 
@@ -70,7 +70,7 @@
 ---
 
 ## 🌐 Connect With Me
-
+📧 Email: **krishnanayak6311@gmail.com**
 💼 LinkedIn → https://www.linkedin.com/in/krishna-nayak-05237b369/  
 🌍 Portfolio → https://krishna-nayak.vercel.app/
 
