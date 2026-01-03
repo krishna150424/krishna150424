@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/>
   </a>
 
-</div>
+</div></div>
 
 
 ## 👨‍💻 About Me
